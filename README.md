@@ -1,9 +1,3 @@
-## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouseTrap-codes&show_icons=true&theme=default&hide_border=true&bg_color=00000000)
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MouseTrap-Codes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouseTrap-codes&layout=compact&theme=radical)
-
-
-## Contribution Graph
-
-![Pranav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MouseTrap-codes&theme=rogue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MouseTrap-codes&layout=compact&theme=default&hide_border=true&bg_color=00000000&count_private=false)
