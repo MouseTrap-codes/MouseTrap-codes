@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MouseTrap-codes
+# 👋 Hi, I'm Pranav
 
 🎓 **CSB Honors Student @ UT Austin**  
 Currently pursuing the Computer Science and Business (CSB) Honors Program at UT Austin, where I get to blend technical skills with business insight.
