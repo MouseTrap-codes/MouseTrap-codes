@@ -32,7 +32,7 @@ Currently pursuing the Computer Science and Business (CSB) Honors Program at UT 
 
 - Love connecting CS theory with practical projects.
 - Interested in quantitative finance, AI, and tech that makes a difference.
-- Huge movie fan, especially anything by **Christopher Nolan**—The Prestige is my go-to.
+- Huge movie fan, especially anything by **Christopher Nolan**, especially his _The Prestige_ and _Memento_.
 
 ---
 
