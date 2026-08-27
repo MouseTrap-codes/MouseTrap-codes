@@ -1,3 +1,2 @@
-Hi! I'm Pranav, a CS & Business Honors student @ UT Austin.
-I'm interested in low-level and embedded systems, applications of ML, and startups. 
-In my free time, I like watching movies (i.e. ones directed by Christopher Nolan like The Prestige) and play games like Super Smash Bros. 
+Hi! I'm Pranav, a CS student @ UT Austin.
+I'm interested in low-level and embedded systems, autonomous vehicles, and aerospace.
